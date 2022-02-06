@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bilbaop
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning phython
-- 💞️ I’m looking to collaborate on biomedical datasets 
+- 💞️ I’m looking to collaborate on biomedical datasets!
 - 📫 How to reach me: bilbaop@gmail.com
 
 <!---
